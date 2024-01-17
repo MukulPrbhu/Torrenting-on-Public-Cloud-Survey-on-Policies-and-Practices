@@ -15,7 +15,7 @@ and how it has been used in unlawful practices<br>
 public cloud providers in deterring illegal use of torrents<br>
 (3) An experimental study on the actual practical feasibility of detecting the
 use of torrents and possible solutions to enable cloud providers to suspend
-such activities<br>
+such activities<br><br>
 This project aims to expose how easy cloud providers have made it to use
 torrent applications on their servers for unlawful practices. While there may be
 laws or policies on their terms of service to prevent such activities, there is no
