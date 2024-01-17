@@ -7,7 +7,7 @@ numerous times to watch their favourite series on multiple platforms. This
 seems to be one of the speculated reasons behind people torrenting as the
 bill can pile up to a sizeable amount. While the use of torrents itself is legal all
 over the world, it is often used to illegally download content. This paper
-focuses on the misuse of the public cloud to use torrents illegally.<br>
+focuses on the misuse of the public cloud to use torrents illegally.<br><br>
 The paper will focus on<br>
 (1) A complete breakdown of the myths and facts of the BitTorrent protocol
 and how it has been used in unlawful practices<br>
